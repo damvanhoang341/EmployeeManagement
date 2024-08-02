@@ -1,0 +1,14 @@
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\BusinessObject\bin\Debug\net8.0\BusinessObject.deps.json
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\BusinessObject\bin\Debug\net8.0\BusinessObject.runtimeconfig.json
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\BusinessObject\bin\Debug\net8.0\BusinessObject.dll
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\BusinessObject\bin\Debug\net8.0\BusinessObject.pdb
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.AssemblyReference.cache
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\BusinessObject\obj\Debug\net8.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfoInputs.cache
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfo.cs
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\BusinessObject\obj\Debug\net8.0\BusinessObject.dll
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\BusinessObject\obj\Debug\net8.0\refint\BusinessObject.dll
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\BusinessObject\obj\Debug\net8.0\BusinessObject.pdb
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\BusinessObject\obj\Debug\net8.0\BusinessObject.genruntimeconfig.cache
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\BusinessObject\obj\Debug\net8.0\ref\BusinessObject.dll

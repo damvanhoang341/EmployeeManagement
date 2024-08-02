@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semester 5\\PRN212\\gitHub_project_EmployeeManagement\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC911DB1-A6A7-4BDA-9E2B-D64D997E3411}|AppWPF\\AppWPF.csproj|d:\\semester 5\\prn212\\github_project_employeemanagement\\employeemanagement\\appwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC911DB1-A6A7-4BDA-9E2B-D64D997E3411}|AppWPF\\AppWPF.csproj|solutionrelative:appwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC911DB1-A6A7-4BDA-9E2B-D64D997E3411}|AppWPF\\AppWPF.csproj|d:\\semester 5\\prn212\\github_project_employeemanagement\\employeemanagement\\appwpf\\pages\\regionmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC911DB1-A6A7-4BDA-9E2B-D64D997E3411}|AppWPF\\AppWPF.csproj|solutionrelative:appwpf\\pages\\regionmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC911DB1-A6A7-4BDA-9E2B-D64D997E3411}|AppWPF\\AppWPF.csproj|d:\\semester 5\\prn212\\github_project_employeemanagement\\employeemanagement\\appwpf\\pages\\locationmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC911DB1-A6A7-4BDA-9E2B-D64D997E3411}|AppWPF\\AppWPF.csproj|solutionrelative:appwpf\\pages\\locationmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC911DB1-A6A7-4BDA-9E2B-D64D997E3411}|AppWPF\\AppWPF.csproj|d:\\semester 5\\prn212\\github_project_employeemanagement\\employeemanagement\\appwpf\\pages\\jobmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC911DB1-A6A7-4BDA-9E2B-D64D997E3411}|AppWPF\\AppWPF.csproj|solutionrelative:appwpf\\pages\\jobmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC911DB1-A6A7-4BDA-9E2B-D64D997E3411}|AppWPF\\AppWPF.csproj|d:\\semester 5\\prn212\\github_project_employeemanagement\\employeemanagement\\appwpf\\pages\\departmentmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC911DB1-A6A7-4BDA-9E2B-D64D997E3411}|AppWPF\\AppWPF.csproj|solutionrelative:appwpf\\pages\\departmentmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC911DB1-A6A7-4BDA-9E2B-D64D997E3411}|AppWPF\\AppWPF.csproj|d:\\semester 5\\prn212\\github_project_employeemanagement\\employeemanagement\\appwpf\\pages\\countrymanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC911DB1-A6A7-4BDA-9E2B-D64D997E3411}|AppWPF\\AppWPF.csproj|solutionrelative:appwpf\\pages\\countrymanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC911DB1-A6A7-4BDA-9E2B-D64D997E3411}|AppWPF\\AppWPF.csproj|d:\\semester 5\\prn212\\github_project_employeemanagement\\employeemanagement\\appwpf\\pages\\accountmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC911DB1-A6A7-4BDA-9E2B-D64D997E3411}|AppWPF\\AppWPF.csproj|solutionrelative:appwpf\\pages\\accountmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC911DB1-A6A7-4BDA-9E2B-D64D997E3411}|AppWPF\\AppWPF.csproj|d:\\semester 5\\prn212\\github_project_employeemanagement\\employeemanagement\\appwpf\\pages\\employeemanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC911DB1-A6A7-4BDA-9E2B-D64D997E3411}|AppWPF\\AppWPF.csproj|solutionrelative:appwpf\\pages\\employeemanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC911DB1-A6A7-4BDA-9E2B-D64D997E3411}|AppWPF\\AppWPF.csproj|d:\\semester 5\\prn212\\github_project_employeemanagement\\employeemanagement\\appwpf\\pages\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC911DB1-A6A7-4BDA-9E2B-D64D997E3411}|AppWPF\\AppWPF.csproj|solutionrelative:appwpf\\pages\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC911DB1-A6A7-4BDA-9E2B-D64D997E3411}|AppWPF\\AppWPF.csproj|d:\\semester 5\\prn212\\github_project_employeemanagement\\employeemanagement\\appwpf\\components\\sidebar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC911DB1-A6A7-4BDA-9E2B-D64D997E3411}|AppWPF\\AppWPF.csproj|solutionrelative:appwpf\\components\\sidebar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC911DB1-A6A7-4BDA-9E2B-D64D997E3411}|AppWPF\\AppWPF.csproj|d:\\semester 5\\prn212\\github_project_employeemanagement\\employeemanagement\\appwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC911DB1-A6A7-4BDA-9E2B-D64D997E3411}|AppWPF\\AppWPF.csproj|solutionrelative:appwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC911DB1-A6A7-4BDA-9E2B-D64D997E3411}|AppWPF\\AppWPF.csproj|d:\\semester 5\\prn212\\github_project_employeemanagement\\employeemanagement\\appwpf\\components\\sidebar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC911DB1-A6A7-4BDA-9E2B-D64D997E3411}|AppWPF\\AppWPF.csproj|solutionrelative:appwpf\\components\\sidebar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC911DB1-A6A7-4BDA-9E2B-D64D997E3411}|AppWPF\\AppWPF.csproj|d:\\semester 5\\prn212\\github_project_employeemanagement\\employeemanagement\\appwpf\\pages\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC911DB1-A6A7-4BDA-9E2B-D64D997E3411}|AppWPF\\AppWPF.csproj|solutionrelative:appwpf\\pages\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC911DB1-A6A7-4BDA-9E2B-D64D997E3411}|AppWPF\\AppWPF.csproj|d:\\semester 5\\prn212\\github_project_employeemanagement\\employeemanagement\\appwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC911DB1-A6A7-4BDA-9E2B-D64D997E3411}|AppWPF\\AppWPF.csproj|solutionrelative:appwpf\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocationManager.xaml",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\gitHub_project_EmployeeManagement\\EmployeeManagement\\AppWPF\\pages\\LocationManager.xaml",
+              "RelativeDocumentMoniker": "AppWPF\\pages\\LocationManager.xaml",
+              "ToolTip": "D:\\Semester 5\\PRN212\\gitHub_project_EmployeeManagement\\EmployeeManagement\\AppWPF\\pages\\LocationManager.xaml",
+              "RelativeToolTip": "AppWPF\\pages\\LocationManager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-02T09:09:28.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobManager.xaml",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\gitHub_project_EmployeeManagement\\EmployeeManagement\\AppWPF\\pages\\JobManager.xaml",
+              "RelativeDocumentMoniker": "AppWPF\\pages\\JobManager.xaml",
+              "ToolTip": "D:\\Semester 5\\PRN212\\gitHub_project_EmployeeManagement\\EmployeeManagement\\AppWPF\\pages\\JobManager.xaml",
+              "RelativeToolTip": "AppWPF\\pages\\JobManager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-02T09:09:13.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentManager.xaml",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\gitHub_project_EmployeeManagement\\EmployeeManagement\\AppWPF\\pages\\DepartmentManager.xaml",
+              "RelativeDocumentMoniker": "AppWPF\\pages\\DepartmentManager.xaml",
+              "ToolTip": "D:\\Semester 5\\PRN212\\gitHub_project_EmployeeManagement\\EmployeeManagement\\AppWPF\\pages\\DepartmentManager.xaml",
+              "RelativeToolTip": "AppWPF\\pages\\DepartmentManager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-02T09:08:49.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CountryManager.xaml",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\gitHub_project_EmployeeManagement\\EmployeeManagement\\AppWPF\\pages\\CountryManager.xaml",
+              "RelativeDocumentMoniker": "AppWPF\\pages\\CountryManager.xaml",
+              "ToolTip": "D:\\Semester 5\\PRN212\\gitHub_project_EmployeeManagement\\EmployeeManagement\\AppWPF\\pages\\CountryManager.xaml",
+              "RelativeToolTip": "AppWPF\\pages\\CountryManager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-02T09:08:29.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\gitHub_project_EmployeeManagement\\EmployeeManagement\\AppWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AppWPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Semester 5\\PRN212\\gitHub_project_EmployeeManagement\\EmployeeManagement\\AppWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AppWPF\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAqwDUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T08:54:13.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegionManager.xaml",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\gitHub_project_EmployeeManagement\\EmployeeManagement\\AppWPF\\pages\\RegionManager.xaml",
+              "RelativeDocumentMoniker": "AppWPF\\pages\\RegionManager.xaml",
+              "ToolTip": "D:\\Semester 5\\PRN212\\gitHub_project_EmployeeManagement\\EmployeeManagement\\AppWPF\\pages\\RegionManager.xaml",
+              "RelativeToolTip": "AppWPF\\pages\\RegionManager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-02T09:09:49.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountManager.xaml",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\gitHub_project_EmployeeManagement\\EmployeeManagement\\AppWPF\\pages\\AccountManager.xaml",
+              "RelativeDocumentMoniker": "AppWPF\\pages\\AccountManager.xaml",
+              "ToolTip": "D:\\Semester 5\\PRN212\\gitHub_project_EmployeeManagement\\EmployeeManagement\\AppWPF\\pages\\AccountManager.xaml",
+              "RelativeToolTip": "AppWPF\\pages\\AccountManager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-02T09:08:06.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeManager.xaml",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\gitHub_project_EmployeeManagement\\EmployeeManagement\\AppWPF\\pages\\EmployeeManager.xaml",
+              "RelativeDocumentMoniker": "AppWPF\\pages\\EmployeeManager.xaml",
+              "ToolTip": "D:\\Semester 5\\PRN212\\gitHub_project_EmployeeManagement\\EmployeeManagement\\AppWPF\\pages\\EmployeeManager.xaml",
+              "RelativeToolTip": "AppWPF\\pages\\EmployeeManager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-02T09:07:37.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dashboard.xaml.cs",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\gitHub_project_EmployeeManagement\\EmployeeManagement\\AppWPF\\pages\\Dashboard.xaml.cs",
+              "RelativeDocumentMoniker": "AppWPF\\pages\\Dashboard.xaml.cs",
+              "ToolTip": "D:\\Semester 5\\PRN212\\gitHub_project_EmployeeManagement\\EmployeeManagement\\AppWPF\\pages\\Dashboard.xaml.cs",
+              "RelativeToolTip": "AppWPF\\pages\\Dashboard.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:03:07.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sidebar.xaml.cs",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\gitHub_project_EmployeeManagement\\EmployeeManagement\\AppWPF\\components\\Sidebar.xaml.cs",
+              "RelativeDocumentMoniker": "AppWPF\\components\\Sidebar.xaml.cs",
+              "ToolTip": "D:\\Semester 5\\PRN212\\gitHub_project_EmployeeManagement\\EmployeeManagement\\AppWPF\\components\\Sidebar.xaml.cs",
+              "RelativeToolTip": "AppWPF\\components\\Sidebar.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T08:55:11.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dashboard.xaml",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\gitHub_project_EmployeeManagement\\EmployeeManagement\\AppWPF\\pages\\Dashboard.xaml",
+              "RelativeDocumentMoniker": "AppWPF\\pages\\Dashboard.xaml",
+              "ToolTip": "D:\\Semester 5\\PRN212\\gitHub_project_EmployeeManagement\\EmployeeManagement\\AppWPF\\pages\\Dashboard.xaml",
+              "RelativeToolTip": "AppWPF\\pages\\Dashboard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-02T08:55:02.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\gitHub_project_EmployeeManagement\\EmployeeManagement\\AppWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AppWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\Semester 5\\PRN212\\gitHub_project_EmployeeManagement\\EmployeeManagement\\AppWPF\\MainWindow.xaml",
+              "RelativeToolTip": "AppWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-02T08:53:51.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\gitHub_project_EmployeeManagement\\EmployeeManagement\\AppWPF\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "AppWPF\\LoginWindow.xaml",
+              "ToolTip": "D:\\Semester 5\\PRN212\\gitHub_project_EmployeeManagement\\EmployeeManagement\\AppWPF\\LoginWindow.xaml",
+              "RelativeToolTip": "AppWPF\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-02T08:53:47.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sidebar.xaml",
+              "DocumentMoniker": "D:\\Semester 5\\PRN212\\gitHub_project_EmployeeManagement\\EmployeeManagement\\AppWPF\\components\\Sidebar.xaml",
+              "RelativeDocumentMoniker": "AppWPF\\components\\Sidebar.xaml",
+              "ToolTip": "D:\\Semester 5\\PRN212\\gitHub_project_EmployeeManagement\\EmployeeManagement\\AppWPF\\components\\Sidebar.xaml",
+              "RelativeToolTip": "AppWPF\\components\\Sidebar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-02T08:53:38.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

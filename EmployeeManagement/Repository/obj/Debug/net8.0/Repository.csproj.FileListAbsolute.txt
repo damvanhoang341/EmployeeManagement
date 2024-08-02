@@ -1,0 +1,17 @@
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\Repository\bin\Debug\net8.0\Repository.deps.json
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\Repository\bin\Debug\net8.0\Repository.dll
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\Repository\bin\Debug\net8.0\Repository.pdb
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\Repository\bin\Debug\net8.0\BusinessObject.dll
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\Repository\bin\Debug\net8.0\DAL.dll
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\Repository\bin\Debug\net8.0\DAL.pdb
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\Repository\bin\Debug\net8.0\BusinessObject.pdb
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\Repository\obj\Debug\net8.0\Repository.dll
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\Repository\obj\Debug\net8.0\refint\Repository.dll
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\Repository\obj\Debug\net8.0\Repository.pdb
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\Repository\obj\Debug\net8.0\ref\Repository.dll

@@ -1,0 +1,20 @@
+﻿AppWPF
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\AppWPF\obj\Debug\net8.0-windows\
+AppWPF
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\AppWPF\App.xaml
+11153316965
+
+161749756719
+2501502538096
+components\Sidebar.xaml;LoginWindow.xaml;MainWindow.xaml;pages\AccountManager.xaml;pages\CountryManager.xaml;pages\Dashboard.xaml;pages\DepartmentManager.xaml;pages\EmployeeManager.xaml;pages\JobManager.xaml;pages\LocationManager.xaml;pages\RegionManager.xaml;
+
+False
+
