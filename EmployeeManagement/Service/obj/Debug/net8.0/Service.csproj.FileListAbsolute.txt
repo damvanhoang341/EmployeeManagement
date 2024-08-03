@@ -17,3 +17,4 @@ D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\Servic
 D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\Service\obj\Debug\net8.0\refint\Service.dll
 D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\Service\obj\Debug\net8.0\Service.pdb
 D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\Service\obj\Debug\net8.0\ref\Service.dll
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\Service\obj\Debug\net8.0\Service.sourcelink.json

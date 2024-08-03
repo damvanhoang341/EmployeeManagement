@@ -1,12 +1,60 @@
-﻿<Window x:Class="AppWPF.pages.AccountManager"
+﻿<UserControl x:Class="AppWPF.pages.AccountManager"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AppWPF.pages"
         mc:Ignorable="d"
-        Title="AccountManager" Height="450" Width="800">
+        d:DesignHeight="450" d:DesignWidth="800">
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Margin="10 15 10 10">
+            <ComboBox x:Name="txbSearchRole" Width="50"/>
+            <Label Content="Full Name" Margin="10 0 0 0"/>
+            <TextBox x:Name="txbSearchName" Width="300"/>
+            <Label Content="Search ID" Margin="100 0 0 0"/>
+            <TextBox x:Name="txbSearchID" Width="300" Margin="10 0 10 0"/>
+            <Button x:Name="btnSearch" Content="Search"  Width="60"/>
+            <Button x:Name="btnClearn" Content="Clearn"  Width="60" Margin="70 0 0 0"/>
+        </StackPanel>
+        <DataGrid x:Name="loadData" AutoGenerateColumns="False" Grid.Row="1">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Member ID" Binding="{Binding MemberId}" Width="*"/>
+                <DataGridTextColumn Header="Full Name" Binding="{Binding FullName}" Width="*"/>
+                <DataGridTextColumn Header="Email Address" Binding="{Binding EmailAddress}" Width="*"/>
+                <DataGridTextColumn Header="Role" Binding="{Binding MemberRoleString}" Width="*"/>
+                <DataGridTemplateColumn Header="Action" Width="50">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Click="DeleteButton_Click">
+                                <Image Source="pack://application:,,,/AppWPF;component/Images/deleted.jpg" Width="16" Height="16"/>
+                            </Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Orientation="Vertical" Grid.Row="2" Margin="0 20 0 0">
+            <Label Content="ID Account" Margin="10 0 0 0"/>
+            <TextBox x:Name="txbID" Margin="15 0 30 0" Height="30"/>
+            <Label Content="Pass Account" Margin="10 10 0 0"/>
+            <TextBox x:Name="txbPass" Height="30" Margin="15 0 30 0"/>
+            <Label Content="Full Name Account" Margin="10 10 0 0"/>
+            <TextBox x:Name="txbName" Height="30" Margin="15 0 30 0"/>
+            <Label Content="Email Account" Margin="10 10 0 0"/>
+            <TextBox x:Name="txbEmail" Height="30" Margin="15 0 30 0"/>
+            <Label Content="Role Account" Margin="10 10 0 0"/>
+            <TextBox x:Name="txbRole" Height="30" Margin="15 0 30 0"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Row="3" Margin="10 0 10 10">
+            <Button x:Name="btnUpdate" Content="Update" Click="bntUpdate_Click" Width="100" Margin="300 0 0 0" Background="Red"/>
+            <Button x:Name="btnAdd" Content="Add" Click="btnAdd_Click" Width="100" Margin="100 0 0 0" Background="Red"/>
+            <Button x:Name="btnRefresh" Content="Refresh" Click="btnRefresh_Click" Width="100" Margin="100 0 0 0" Background="Red"/>
+        </StackPanel>
     </Grid>
-</Window>
+</UserControl>

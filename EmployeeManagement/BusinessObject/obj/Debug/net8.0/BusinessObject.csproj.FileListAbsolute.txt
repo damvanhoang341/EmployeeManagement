@@ -12,3 +12,4 @@ D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\Busine
 D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\BusinessObject\obj\Debug\net8.0\BusinessObject.pdb
 D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\BusinessObject\obj\Debug\net8.0\BusinessObject.genruntimeconfig.cache
 D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\BusinessObject\obj\Debug\net8.0\ref\BusinessObject.dll
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\BusinessObject\obj\Debug\net8.0\BusinessObject.sourcelink.json

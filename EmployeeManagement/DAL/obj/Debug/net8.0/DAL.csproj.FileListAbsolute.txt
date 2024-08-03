@@ -13,3 +13,4 @@ D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\DAL\ob
 D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\DAL\obj\Debug\net8.0\refint\DAL.dll
 D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\DAL\obj\Debug\net8.0\DAL.pdb
 D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\DAL\obj\Debug\net8.0\ref\DAL.dll
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\DAL\obj\Debug\net8.0\DAL.sourcelink.json

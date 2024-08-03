@@ -15,3 +15,4 @@ D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\Reposi
 D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\Repository\obj\Debug\net8.0\refint\Repository.dll
 D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\Repository\obj\Debug\net8.0\Repository.pdb
 D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\Repository\obj\Debug\net8.0\ref\Repository.dll
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\Repository\obj\Debug\net8.0\Repository.sourcelink.json

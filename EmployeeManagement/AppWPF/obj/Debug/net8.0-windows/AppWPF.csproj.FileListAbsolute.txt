@@ -104,3 +104,4 @@ D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\AppWPF
 D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\AppWPF\obj\Debug\net8.0-windows\pages\JobManager.baml
 D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\AppWPF\obj\Debug\net8.0-windows\pages\LocationManager.baml
 D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\AppWPF\obj\Debug\net8.0-windows\pages\RegionManager.baml
+D:\Semester 5\PRN212\gitHub_project_EmployeeManagement\EmployeeManagement\AppWPF\obj\Debug\net8.0-windows\AppWPF.sourcelink.json

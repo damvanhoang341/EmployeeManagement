@@ -7,17 +7,14 @@
         mc:Ignorable="d"
         Title="LoginWindow" Height="450" Width="800">
     <Grid>
-        <!--<Grid.Background>
-            <ImageBrush ImageSource="pack://application:,,,/Images/LoginWindow.jpg"/>
-        </Grid.Background>-->
+        
 
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="2*"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
-
-        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="82" VerticalAlignment="Top"/>
-        <TextBox Text="Employee Management System" BorderThickness="0" Background="Transparent" Foreground="#FF0E386D" FontSize="28" FontWeight="Medium" Margin="70,74,58,328" FontFamily="Bahnschrift" />
+        <Image Source="pack://application:,,,/images/loginwindow.jpg" Grid.ColumnSpan="2" />
+        <TextBox Text="Employee Management System" BorderThickness="0" Background="Transparent" Foreground="Blue" FontSize="28" FontWeight="Medium" Margin="70,0,58,328" FontFamily="Bahnschrift" RenderTransformOrigin="0.503,-0.001" />
 
         <StackPanel Orientation="Vertical" Margin="80,150,80,10" RenderTransformOrigin="0.505,0.607">
             <Label Content="Username" Foreground="White" FontSize="12" FontWeight="Medium" FontFamily="Bahnschrift"/>
