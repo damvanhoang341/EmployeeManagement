@@ -53,7 +53,7 @@ namespace AppWPF.pages {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/AppWPF;component/pages/locationmanager.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/AppWPF;V1.0.0.0;component/pages/locationmanager.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\pages\LocationManager.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

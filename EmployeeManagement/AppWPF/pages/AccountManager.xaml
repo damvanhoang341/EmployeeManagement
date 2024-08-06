@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AppWPF.pages"
         mc:Ignorable="d"
-        d:DesignHeight="450" d:DesignWidth="800">
+        d:DesignHeight="450" d:DesignWidth="800"
+        Loaded="Window_Loaded">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="50"/>
@@ -14,15 +15,16 @@
             <RowDefinition Height="40"/>
         </Grid.RowDefinitions>
         <StackPanel Orientation="Horizontal" Grid.Row="0" Margin="10 15 10 10">
-            <ComboBox x:Name="txbSearchRole" Width="50"/>
+            <Label Content="Role"/>
+            <ComboBox x:Name="txbSearchRole" Width="80" DropDownOpened="cbnSearchRole_Down" SelectionChanged="cbnSearchRole_Changed" />
             <Label Content="Full Name" Margin="10 0 0 0"/>
-            <TextBox x:Name="txbSearchName" Width="300"/>
+            <TextBox x:Name="txbSearchName" Width="300" SelectionChanged="txbSearchName_Changed"/>
             <Label Content="Search ID" Margin="100 0 0 0"/>
             <TextBox x:Name="txbSearchID" Width="300" Margin="10 0 10 0"/>
-            <Button x:Name="btnSearch" Content="Search"  Width="60"/>
-            <Button x:Name="btnClearn" Content="Clearn"  Width="60" Margin="70 0 0 0"/>
+            <Button x:Name="btnSearch" Content="Search"  Width="60" Click="btnSearch_Click"/>
+            <Button x:Name="btnClearn" Content="Clearn"  Width="60" Margin="70 0 0 0" Click="btnClearn_Click"/>
         </StackPanel>
-        <DataGrid x:Name="loadData" AutoGenerateColumns="False" Grid.Row="1">
+        <DataGrid x:Name="loadData" AutoGenerateColumns="False" Grid.Row="1" SelectionChanged="loadData_Changed" CanUserAddRows="False">
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Member ID" Binding="{Binding MemberId}" Width="*"/>
                 <DataGridTextColumn Header="Full Name" Binding="{Binding FullName}" Width="*"/>
@@ -31,7 +33,7 @@
                 <DataGridTemplateColumn Header="Action" Width="50">
                     <DataGridTemplateColumn.CellTemplate>
                         <DataTemplate>
-                            <Button Click="DeleteButton_Click">
+                            <Button x:Name="btnDeleted" Click="btnDeleteButton_Click">
                                 <Image Source="pack://application:,,,/AppWPF;component/Images/deleted.jpg" Width="16" Height="16"/>
                             </Button>
                         </DataTemplate>
@@ -43,13 +45,13 @@
             <Label Content="ID Account" Margin="10 0 0 0"/>
             <TextBox x:Name="txbID" Margin="15 0 30 0" Height="30"/>
             <Label Content="Pass Account" Margin="10 10 0 0"/>
-            <TextBox x:Name="txbPass" Height="30" Margin="15 0 30 0"/>
+            <PasswordBox x:Name="txbPass" Height="30" Margin="15 0 30 0"/>
             <Label Content="Full Name Account" Margin="10 10 0 0"/>
             <TextBox x:Name="txbName" Height="30" Margin="15 0 30 0"/>
             <Label Content="Email Account" Margin="10 10 0 0"/>
             <TextBox x:Name="txbEmail" Height="30" Margin="15 0 30 0"/>
             <Label Content="Role Account" Margin="10 10 0 0"/>
-            <TextBox x:Name="txbRole" Height="30" Margin="15 0 30 0"/>
+            <ComboBox x:Name="cbnRole" Height="30" Margin="15 0 30 0" DropDownOpened="dataRole"/>
         </StackPanel>
         <StackPanel Orientation="Horizontal" Grid.Row="3" Margin="10 0 10 10">
             <Button x:Name="btnUpdate" Content="Update" Click="bntUpdate_Click" Width="100" Margin="300 0 0 0" Background="Red"/>

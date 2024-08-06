@@ -135,7 +135,7 @@ namespace AppWPF.components {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/AppWPF;component/components/sidebar.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/AppWPF;V1.0.0.0;component/components/sidebar.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\components\Sidebar.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

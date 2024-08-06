@@ -53,7 +53,7 @@ namespace AppWPF.pages {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/AppWPF;component/pages/dashboard.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/AppWPF;V1.0.0.0;component/pages/dashboard.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\pages\Dashboard.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

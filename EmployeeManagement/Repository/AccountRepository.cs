@@ -23,6 +23,38 @@ namespace Repository
             return account;
         }
 
+        public List<AccountMember> getAccountByRole(int role)
+        {
+            var accounts = context.AccountMembers.Where(a => a.MemberRole.Equals(role)).ToList();
+            return accounts;
+        }
+
+        public List<AccountMember> getAccountByRole(string name, string role)
+        {
+            var accounts = context.AccountMembers.Where(a => a.FullName.Contains(name)).ToList();
+            if (role.Equals("Admin"))
+            {
+                var list = accounts.Where(a => a.MemberRole == 1).ToList();
+                return list;
+            }
+            else if (role.Equals("Staff"))
+            {
+                var list = accounts.Where(a => a.MemberRole == 2).ToList();
+                return list;
+            }
+            else if (role.Equals("Admin"))
+            {
+                var list = accounts.Where(a => a.MemberRole == 3).ToList();
+                return list;
+            }
+            else
+            {
+                var list = getAllAcount().Where(a => a.FullName.Contains(name)).ToList();
+                return list;
+            }
+        }
+
+
         public List<AccountMember> getAllAcount()
         {
             var listAll = context.AccountMembers.ToList();
@@ -31,14 +63,21 @@ namespace Repository
 
         public void removeAccount(AccountMember account)
         {
-            if (getAccountById(account.MemberId) != null)
+            var existingAccount = getAccountById(account.MemberId);
+            if (existingAccount != null)
             {
-                context.AccountMembers.Remove(account);
+                context.AccountMembers.Remove(existingAccount);
                 context.SaveChanges();
             }
+            //ko dc xoa thuc the theo doi
+            //if (getAccountById(account.MemberId) != null)
+            //{
+            //    context.AccountMembers.Remove(account);
+            //    context.SaveChanges();
+            //}
         }
 
-        public void updateAcoounr(AccountMember account)
+        public void updateAccount(AccountMember account)
         {
             if (getAccountById(account.MemberId) != null)
             {
